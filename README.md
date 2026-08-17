@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hi, I'm Aniket Kumar
 
-<!--
-**rakshelsinghaniket234-maker/rakshelsinghaniket234-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Java Developer Fresher | Full Stack Web Development
 
-Here are some ideas to get you started:
+I’m a passionate Java Developer Fresher focused on building web applications and improving my programming and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Backend
+- ☕ Java
+- 🧩 Core Java & OOP
+- 🔌 JDBC
+- 🌐 Servlets & JSP
+
+### 🗄️ Database
+- 🐬 MySQL
+- 📊 SQL
+
+### 🎨 Frontend
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- ⚛️ React
+
+### 🧰 Tools & IDEs
+- 🔧 Git & GitHub
+- 💙 Visual Studio Code
+- 🧠 IntelliJ IDEA
+- 🖥️ NetBeans
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Smart Job Portal
+A Java-based web application for candidates and employers.
+
+**Tech:** Java • JDBC • Servlets • JSP • MySQL • HTML • CSS • JavaScript
+
+### 🔹 Employee Management System
+A Java web application for managing employee records with CRUD operations.
+
+**Tech:** Java • JDBC • MySQL • Servlets • JSP • HTML • CSS
+
+---
+
+## 📚 Currently Learning
+
+- 🚀 Advanced Java
+- 🌐 Java Web Development
+- ⚛️ React
+- 🧠 Data Structures & Problem Solving
+
+---
+
+## 🎯 Career Objective
+
+Looking for an opportunity as a **Java Developer / Software Developer Fresher** where I can apply my technical skills, work on real-world projects, and continue learning.
+
+---
+
+## 📫 Let's Connect
+
+- 💻 GitHub: [Aniket Kumar](https://github.com/rakshelsinghaniket234-maker)
+
+---
+
+⭐ *Thanks for visiting my profile!*
