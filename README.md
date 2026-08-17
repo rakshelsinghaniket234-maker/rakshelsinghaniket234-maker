@@ -66,18 +66,20 @@ A Java web application for managing employee records with CRUD operations.
 
 ### 🔹 E-Commerce Website
 
-A web-based e-commerce application designed for browsing products and managing online shopping activities.
+A responsive e-commerce frontend built with React.js and Vite, featuring product browsing, search, category filtering, product details, cart management, checkout and order history.
 
 **Features:**
 - 🛍️ Product Listing
-- 🔍 Product Search
-- 🛒 Shopping Cart
-- 👤 User Registration & Login
-- 📦 Order Management
-- 🗄️ Database Integration
+- 🔍 Product Search & Category Filter
+- 📄 Product Details
+- 🛒 Add to Cart & Cart Management
+- ➕➖ Quantity Management
+- 💳 Checkout Form
+- 📦 Order History
+- 📱 Responsive Design
+- 🔐 Login & Register UI
 
-**Tech:** Java • JDBC • Servlets • JSP • MySQL • HTML • CSS • JavaScript
-
+**Tech:** React.js • Vite • React Router • Context API • JavaScript • HTML • CSS
 ---
 
 ## 📚 Currently Learning
