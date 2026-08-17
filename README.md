@@ -80,6 +80,7 @@ A responsive e-commerce frontend built with React.js and Vite, featuring product
 - 🔐 Login & Register UI
 
 **Tech:** React.js • Vite • React Router • Context API • JavaScript • HTML • CSS
+
 ---
 
 ## 📚 Currently Learning
